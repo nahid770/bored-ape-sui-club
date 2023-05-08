@@ -18,7 +18,7 @@ const Banner = () => {
             <p className="py-6 text-white font-Roboto">
             It began with hope and belief in a second chance. A collection, derived not just from any project, one of the greatest, the OG BAYC. There are no duplicates an expansion of 5,000 Bored Apes from the original BAYC collection, each deconstructed, reconstructed offering a new Bored Ape a home in the Sui Blockchain.</p>
             
-            <button className="btn btn-primary text-white font-Roboto ">Mint</button>
+            <a href='https://tocen.co/marketplace/ino/boredapesuiclub' target='blank' className="btn btn-primary text-white font-Roboto ">Mint</a>
          
           </div>
         </div>
