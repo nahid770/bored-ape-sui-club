@@ -26,7 +26,7 @@ import img15 from '../images/15.png'
 const Gellery = () => {
     return (
     <>
-    <h2 className="text-white text-4xl md:text-5xl font-bold pb-16 md:pb-24 text-center font-Poppins">Gellery</h2>
+    <h2 id="gellery" className="text-white text-4xl md:text-5xl font-bold pb-16 md:pb-24 text-center font-Poppins">Gellery</h2>
     <Swiper
        
         spaceBetween={30}

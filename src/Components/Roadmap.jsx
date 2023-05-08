@@ -3,7 +3,7 @@ import './Roadmap.css'
 
 const Roadmap = () => {
     return (
-        <div className='pb-16 md:pb-32'>
+        <div id='roadmap' className='pb-16 md:pb-32'>
             <h2 className='text-white text-4xl md:text-5xl text-center font-bold pb-24 font-Poppins'>Roadmap</h2>
             <div className='flex justify-center'>
                 <div className='h-auto w-4 bg-white rounded-lg'></div>

@@ -3,7 +3,7 @@ import about from '../images/about.png'
 
 const About = () => {
     return (
-        <div className="hero md:pt-24 pb-6 md:pb-32">
+        <div id='aboutus' className="hero md:pt-24 pb-6 md:pb-32">
         <div className="hero-content flex-col-reverse md:items-center lg:flex-row-reverse">
 
           <div data-aos="fade-left" data-aos-duration="3000" className='md:w-1/2 md:pt-5'>

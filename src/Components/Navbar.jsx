@@ -16,7 +16,7 @@ const Navber = () => {
                 </div>
                 <div>
                     <ul className='flex justify-center items-center gap-8 text-white'>
-                        <li><a className='font-Roboto' href="/">Home</a></li>
+                        <li><a className='font-Roboto' href="#home">Home</a></li>
                         <li><a className='font-Roboto' href="#aboutus">About Us</a></li>
                         <li><a className='font-Roboto' href="#gellery">Gellery</a></li>
                         <li><a className='font-Roboto' href="#roadmap">Roadmap</a></li>
@@ -41,7 +41,7 @@ const Navber = () => {
           
                     <ul className={`nav flex flex-col gap-5 justify-center items-center md:hidden md:pb-0 pb-6 absolute md:static md:z-auto z-50 right-0 w-2/3 py-5 md:py-0 md:w-auto rounded-md shadow-md  mt-8 md:mt-0 text-white bg-[#78b0dd] ${open ? 'top-30' : 'top-[-600px]'}`}>
                         
-                        <li><a className='font-Roboto' href="/">Home</a></li>
+                        <li><a className='font-Roboto' href="#home">Home</a></li>
                         <li><a className='font-Roboto' href="#aboutus">About Us</a></li>
                         <li><a className='font-Roboto' href="#gellery">Gellery</a></li>
                         <li><a className='font-Roboto' href="#roadmap">Roadmap</a></li>

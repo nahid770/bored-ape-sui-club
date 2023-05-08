@@ -7,7 +7,7 @@ AOS.init();
 
 const Banner = () => {
     return (
-      <div className="hero md:pt-12">
+      <div id='home' className="hero md:pt-12">
         <div className="hero-content flex-col md:items-center lg:flex-row-reverse">
           <div data-aos="fade-up" data-aos-duration="2000" className='flex items-start'>
             <img src={banner} className="max-w-xs md:max-w-lg " />
